@@ -30,8 +30,10 @@ Attempted but incomplete tasks: 0
 View HCS metrics on HashScan:
  https://hashscan.io/testnet/topic/0.0.4576382 
 Using the anonymised key: 3cc14f29fcc626fcbcad832c4d7bb52f
-![daniella hedera five token image](https://github.com/user-attachments/assets/bf2fe239-9906-4edc-b320-6707e2c3180c)
+
 ~~~
+![daniella hedera five token image](https://github.com/user-attachments/assets/bf2fe239-9906-4edc-b320-6707e2c3180c)
+
 Hello World Task
 ~~~
 Gitpod Instance : https://gitpod.io#snapshot/86a4c9fd-8934-4147-b732-98dc36455544
@@ -70,9 +72,9 @@ View HCS metrics on HashScan:
  https://hashscan.io/testnet/topic/0.0.4573319 
 Using the anonymised key: 5a18903a1ab6e3c84b27ac328d5b05b1
 
-![Daniella Hedera Future World Image](https://github.com/user-attachments/assets/9f83d313-708f-4f4c-907a-18887267e8b1)
 
 ~~~
+![Daniella Hedera Future World Image](https://github.com/user-attachments/assets/9f83d313-708f-4f4c-907a-18887267e8b1)
 
 Hello World - HSCS: Smart Contracts
 
@@ -120,9 +122,11 @@ View HCS metrics on HashScan:
  https://hashscan.io/testnet/topic/0.0.4573319 
 Using the anonymised key: 4246e4ff348bdbb9a5bb61e37c04a0f8
 gitpod /workspace/hello-future-world-js/hscs (main) $
-![Daniella Hedera Hcsc Smart contract image](https://github.com/user-attachments/assets/b603e184-0118-45b0-8657-2ae581489b31)
+
 
 ~~~
+
+![Daniella Hedera Hcsc Smart contract image](https://github.com/user-attachments/assets/b603e184-0118-45b0-8657-2ae581489b31)
 
 
 
